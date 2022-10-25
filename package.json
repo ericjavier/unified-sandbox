@@ -1,0 +1,29 @@
+{
+  "name": "unified-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rehype-document": "^6.1.0",
+    "rehype-format": "^4.0.1",
+    "rehype-stringify": "^9.0.3",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "remark-retext": "^5.0.1",
+    "remark-slug": "^7.0.1",
+    "remark-toc": "^8.0.1",
+    "retext-english": "^4.1.0",
+    "retext-indefinite-article": "^4.1.0",
+    "to-vfile": "^7.2.3",
+    "unified": "^10.1.2",
+    "unified-stream": "^2.0.0",
+    "vfile-reporter": "^7.0.4"
+  }
+}
